@@ -1,0 +1,13 @@
+{
+    "file_name": "C:/Users/USERNAME/Desktop/icon.png",
+    "output_folder": "C:/Users/USERNAME/Desktop",
+    "android": {
+        "prefix": "ic_launcher",
+        "drawable": "drawable",
+        "enable": true
+    },
+    "ios": {
+        "prefix": "Icon",
+        "enable": false
+    }
+}
